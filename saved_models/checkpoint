@@ -1,0 +1,5 @@
+model_checkpoint_path: "traffic_sign_classifier2"
+all_model_checkpoint_paths: "traffic_sign_classifier2-5"
+all_model_checkpoint_paths: "traffic_sign_classifier2-10"
+all_model_checkpoint_paths: "traffic_sign_classifier2-15"
+all_model_checkpoint_paths: "traffic_sign_classifier2"
